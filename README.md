@@ -13,7 +13,7 @@ not for you, and you should write your own helpers.
 Install via composer:
 
 ```bash
-$ composer require soliant/formidable-bootstrap
+$ composer require soliantconsulting/formidable-bootstrap
 ```
 
 ## Usage

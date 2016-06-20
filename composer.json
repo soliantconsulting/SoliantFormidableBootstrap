@@ -1,5 +1,5 @@
 {
-    "name": "soliant/formidable-bootstrap",
+    "name": "soliantconsulting/formidable-bootstrap",
     "description": "Twitter Bootstrap 3 integration for Formidable",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
         "league/plates": "^3.1",
         "container-interop/container-interop": "^1.1"
     },
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ben Scholzen",
