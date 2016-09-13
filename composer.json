@@ -13,5 +13,10 @@
             "name": "Ben Scholzen",
             "email": "mail@dasprids.de"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Soliant\\FormidableBootstrap\\": "src/"
+        }
+    }
 }
