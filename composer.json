@@ -3,7 +3,7 @@
     "description": "Twitter Bootstrap 3 integration for Formidable",
     "type": "library",
     "require": {
-        "dasprid/formidable": "^0.2.0",
+        "dasprid/formidable": "^0.3.1",
         "league/plates": "^3.1",
         "container-interop/container-interop": "^1.1"
     },
