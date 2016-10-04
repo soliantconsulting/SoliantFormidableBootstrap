@@ -136,7 +136,7 @@ final class Input implements ExtensionInterface
         $inputDocument->loadHTML($inputHtml);
 
         foreach ($inputDocument->getElementsByTagName('body')->item(0)->childNodes as $childNode) {
-            $inputNode = $document->importNode($childNode);
+            $inputNode = $document->importNode($childNode, true);
             $formGroupElement->appendChild($inputNode);
         }
 
